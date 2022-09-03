@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/itemlist_post_profile.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/itemlist_post_profile.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/itemlist_detail_comment.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/itemlist_detail_comment.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_place.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_place.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_edit_profile.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_register.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_detail.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/fragment_place.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/fragment_place.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/fragment_upload.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/fragment_upload.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/itemlist_place.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/itemlist_place.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/fragment_profile.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_splash_screen.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_on_boarding.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/itemlist_main_timeline.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/itemlist_main_timeline.xml"
+    },
+    {
+        "merged": "com.ankhdigital.joinsport.app-mergeDebugResources-46:/layout/activity_login.xml",
+        "source": "com.ankhdigital.joinsport.app-main-49:/layout/activity_login.xml"
+    }
+]
